@@ -1,0 +1,6 @@
+fortnitepy==2.3.1
+aiohttp
+colorama
+BenBotAsync
+requests
+to_have_joined_my_discord_sever
